@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/mapa-trading/.github/main/profile/logo.png)
+![Logo](https://raw.githubusercontent.com/mapa-trading/.github/main/profile/logo-mapa-trading.png)
 
 
 
