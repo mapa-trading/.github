@@ -17,9 +17,6 @@ Projeto de microsserviços para a disciplina Desenvolvimento Full stack - INF-UF
 
 #### Itens da implementação para serem realizados:
 
-```http
-  GET /api/items
-```
 
 | Task   | Status       | Descrição                           |
 | :---------- | :--------- | :---------------------------------- |
