@@ -13,6 +13,32 @@ Projeto de microsserviços para a disciplina Desenvolvimento Full stack - INF-UF
 - Gráficos e relatórios inteligentes das cotações 
 - Aplicativo mobile Android/iOS
 
+## AVALIAÇÃO AV2
+
+#### Itens da implementação para serem realizados:
+
+```http
+  GET /api/items
+```
+
+| Task   | Status       | Descrição                           |
+| :---------- | :--------- | :---------------------------------- |
+| `CRUD (Create, Read/Listar, Update e Delete) de duas Enditades` | `Andamento` | Só alguns create e read e 1 delete estão prontos falta fazer os updates |
+| `A validação das entidades deverão ser realizadas com Bean Validation` | `Pendente` |  |
+| `O serviço produzido deverá ser consumido pelo Postman` | `ok` | Já está funcionando |
+| `Fazer toda a documentação do serviço com swagger` | `Pendente` |  |
+| `Os serviços produzidos poderão ser desenvolvidos em qualquer linguagem, desde que os requisitos do trabalho sejam cumpridos` | `Feito` | Feito em java com spring boot |
+
+
+#### Data da Apresentação
+
+```http
+  Dia 15/02/2023.
+```
+
+
+
+
 
 ## Autores
 
