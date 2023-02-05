@@ -27,7 +27,7 @@ Projeto de microsserviços para a disciplina Desenvolvimento Full stack - INF-UF
 | `A validação das entidades deverão ser realizadas com Bean Validation` | `Pendente` |  |
 | `O serviço produzido deverá ser consumido pelo Postman` | `ok` | Já está funcionando |
 | `Fazer toda a documentação do serviço com swagger` | `Pendente` |  |
-| `Os serviços produzidos poderão ser desenvolvidos em qualquer linguagem, desde que os requisitos do trabalho sejam cumpridos` | `Feito` | Feito em java com spring boot |
+| `Os serviços produzidos poderão ser desenvolvidos em qualquer linguagem, desde que os requisitos do trabalho sejam cumpridos` | `Feito` | Feito em java com spring boot [link do projeto: MAPA - tranding - cotações](https://github.com/mapa-trading/mapa-cotacoes) |
 
 
 #### Data da Apresentação
