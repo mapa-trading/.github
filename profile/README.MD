@@ -39,8 +39,8 @@ Projeto de microsserviços para a disciplina Desenvolvimento Full stack - INF-UF
 
 ## Autores
 
-- [@alanvianaa](https://www.github.com/alanviana)
-- [@jonathan181](https://www.github.com/jonathan181)
-- [@pedrooofaria](https://www.github.com/pedrooofaria)
-- [@arlleyMatheus](https://github.com/ArlleyMatheus)
+- [M - @jonathan181](https://www.github.com/jonathan181)
+- [A - @alanvianaa](https://www.github.com/alanviana)
+- [P - @pedrooofaria](https://www.github.com/pedrooofaria)
+- [A - @arlleyMatheus](https://github.com/ArlleyMatheus)
 
